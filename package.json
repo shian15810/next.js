@@ -112,7 +112,7 @@
     "jest-cli": "19.0.1",
     "lint-staged": "^3.4.0",
     "node-fetch": "1.6.3",
-    "node-notifier": "5.1.2",
+    "node-notifier": "8.0.1",
     "nyc": "10.2.0",
     "react": "15.5.3",
     "react-dom": "15.5.3",
